@@ -161,7 +161,7 @@ either, as this "reference implementation" tries to be as easy to read as possib
 - [alex-s168/uiua-qoi](https://github.com/alex-s168/uiua-qoi) - Uiua
 - [hchargois/qoi](https://github.com/hchargois/qoi) - Go
 - [coralpink/qoi.cr](https://codeberg.org/coralpink/qoi.cr) - Crystal
-- [Pivok7/zqoi](https://github.com/Pivok7/zqoi) - Zig
+- [Pivok7/zqoi](https://codeberg.org/Pivok/zqoi) - Zig
 - [Muppetsg2/koi](https://github.com/Muppetsg2/koi) - stb-like single-file, public domain (or MIT-licensed) image processing libraries for C/C++
 
 ## QOI Support in Other Software
